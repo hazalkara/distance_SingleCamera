@@ -36,4 +36,4 @@ Kırmızı bir nesne tespit edildiğinde, nesnenin genişliği (width_frame) hes
 Focal_length_found = Focal_Length_Finder(Known_distance, Known_width, width)
 ```
 ## Uygulamayı Çalıştırma
-Uygulamayı çalıştırmak için kamera cihazınıza erişim sağladığınızdan emin olun ve main.py dosyasını çalıştırın. Kamera görüntüsü üzerinde kırmızı bir nesne bulunmalıdır. Bu nesne, gerçek dünyadaki mesafesi ekranda görüntülenecektir.
+Uygulamayı çalıştırmak için kamera cihazınıza erişim sağladığınızdan emin olun ve 'meafebir.py' dosyasını çalıştırın. Kamera görüntüsü üzerinde kırmızı bir nesne bulunmalıdır. Bu nesne, gerçek dünyadaki mesafesi ekranda görüntülenecektir.
